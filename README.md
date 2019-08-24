@@ -13,7 +13,7 @@ I have built following packages :
 # Install this project on your system
 
     
-You will need Visual Studio 2015.
+You will need Visual Studio 2015. You should use the .Net System.IO and System.Text for all I/O.
 The project consists of run.bat and compile.bat files.
 Run.bat - Runs the project. It is required for C# or VB.NET applications.
 Compile.bat - Compiles the project automatically. 
