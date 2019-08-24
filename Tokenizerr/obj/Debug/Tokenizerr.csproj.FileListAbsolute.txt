@@ -1,0 +1,11 @@
+C:\Users\Amruta\source\repos\MyProject2\Tokenizerr\obj\Debug\Tokenizerr.csproj.CoreCompileInputs.cache
+C:\Users\Amruta\source\repos\MyProject2\Tokenizerr\bin\Debug\Tokenizerr.pdb
+C:\Users\Amruta\source\repos\MyProject2\Tokenizerr\bin\Debug\TokenInterfacee.dll
+C:\Users\Amruta\source\repos\MyProject2\Tokenizerr\bin\Debug\TokenInterfacee.pdb
+C:\Users\Amruta\source\repos\MyProject2\Tokenizerr\bin\Debug\TokenInterfacee.dll.config
+C:\Users\Amruta\source\repos\MyProject2\Tokenizerr\obj\Debug\Tokenizerr.csprojAssemblyReference.cache
+C:\Users\Amruta\source\repos\MyProject2\Tokenizerr\obj\Debug\Tokenizerr.csproj.CopyComplete
+C:\Users\Amruta\source\repos\MyProject2\Tokenizerr\obj\Debug\Tokenizerr.pdb
+C:\Users\Amruta\source\repos\MyProject2\Tokenizerr\bin\Debug\Tokenizerr.dll.config
+C:\Users\Amruta\source\repos\MyProject2\Tokenizerr\bin\Debug\Tokenizerr.dll
+C:\Users\Amruta\source\repos\MyProject2\Tokenizerr\obj\Debug\Tokenizerr.dll

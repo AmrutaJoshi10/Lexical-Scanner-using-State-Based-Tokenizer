@@ -1,0 +1,7 @@
+C:\Users\Amruta\source\repos\MyProject2\TokenInterfacee\obj\Debug\TokenInterfacee.csprojAssemblyReference.cache
+C:\Users\Amruta\source\repos\MyProject2\TokenInterfacee\obj\Debug\TokenInterfacee.csproj.CoreCompileInputs.cache
+C:\Users\Amruta\source\repos\MyProject2\TokenInterfacee\bin\Debug\TokenInterfacee.dll.config
+C:\Users\Amruta\source\repos\MyProject2\TokenInterfacee\bin\Debug\TokenInterfacee.dll
+C:\Users\Amruta\source\repos\MyProject2\TokenInterfacee\bin\Debug\TokenInterfacee.pdb
+C:\Users\Amruta\source\repos\MyProject2\TokenInterfacee\obj\Debug\TokenInterfacee.dll
+C:\Users\Amruta\source\repos\MyProject2\TokenInterfacee\obj\Debug\TokenInterfacee.pdb

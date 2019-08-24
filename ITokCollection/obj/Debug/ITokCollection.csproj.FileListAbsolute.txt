@@ -1,0 +1,7 @@
+C:\Users\Amruta\source\repos\MyProject2\ITokCollection\bin\Debug\ITokCollection.dll.config
+C:\Users\Amruta\source\repos\MyProject2\ITokCollection\bin\Debug\ITokCollection.dll
+C:\Users\Amruta\source\repos\MyProject2\ITokCollection\bin\Debug\ITokCollection.pdb
+C:\Users\Amruta\source\repos\MyProject2\ITokCollection\obj\Debug\ITokCollection.csproj.CoreCompileInputs.cache
+C:\Users\Amruta\source\repos\MyProject2\ITokCollection\obj\Debug\ITokCollection.dll
+C:\Users\Amruta\source\repos\MyProject2\ITokCollection\obj\Debug\ITokCollection.pdb
+C:\Users\Amruta\source\repos\MyProject2\ITokCollection\obj\Debug\ITokCollection.csprojAssemblyReference.cache

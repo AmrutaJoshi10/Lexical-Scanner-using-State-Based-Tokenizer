@@ -1,0 +1,24 @@
+/* This is the Test File */
+#include<stdio.h>
+
+char a = 'c';
+String s = "HELLO";
+int b = a++;
+
+//This is for loop 
+for(int i= 0; i<=6; i++){
+Console.Write(i);
+}
+
+int i;
+// a C++ comment
+
+for(int i=0; i<4; ++i)
+
+      {
+
+      p = i*j;
+
+      }
+	 STOP
+	 

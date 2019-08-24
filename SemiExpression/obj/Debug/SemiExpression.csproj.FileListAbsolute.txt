@@ -1,0 +1,17 @@
+C:\Users\Amruta\source\repos\MyProject2\SemiExpression\obj\Debug\SemiExpression.csproj.CoreCompileInputs.cache
+C:\Users\Amruta\source\repos\MyProject2\SemiExpression\bin\Debug\SemiExpression.pdb
+C:\Users\Amruta\source\repos\MyProject2\SemiExpression\bin\Debug\TokenInterfacee.dll
+C:\Users\Amruta\source\repos\MyProject2\SemiExpression\bin\Debug\Tokenizerr.pdb
+C:\Users\Amruta\source\repos\MyProject2\SemiExpression\bin\Debug\TokenInterfacee.pdb
+C:\Users\Amruta\source\repos\MyProject2\SemiExpression\bin\Debug\TokenInterfacee.dll.config
+C:\Users\Amruta\source\repos\MyProject2\SemiExpression\obj\Debug\SemiExpression.csprojAssemblyReference.cache
+C:\Users\Amruta\source\repos\MyProject2\SemiExpression\obj\Debug\SemiExpression.csproj.CopyComplete
+C:\Users\Amruta\source\repos\MyProject2\SemiExpression\obj\Debug\SemiExpression.pdb
+C:\Users\Amruta\source\repos\MyProject2\SemiExpression\bin\Debug\ITokCollection.dll
+C:\Users\Amruta\source\repos\MyProject2\SemiExpression\bin\Debug\ITokCollection.pdb
+C:\Users\Amruta\source\repos\MyProject2\SemiExpression\bin\Debug\ITokCollection.dll.config
+C:\Users\Amruta\source\repos\MyProject2\SemiExpression\bin\Debug\SemiExpression.dll.config
+C:\Users\Amruta\source\repos\MyProject2\SemiExpression\bin\Debug\SemiExpression.dll
+C:\Users\Amruta\source\repos\MyProject2\SemiExpression\bin\Debug\Tokenizerr.dll
+C:\Users\Amruta\source\repos\MyProject2\SemiExpression\bin\Debug\Tokenizerr.dll.config
+C:\Users\Amruta\source\repos\MyProject2\SemiExpression\obj\Debug\SemiExpression.dll
